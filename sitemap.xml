@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/08/15/HTTP%E6%9D%82%E8%AF%B4/</loc>
+    
+    <lastmod>2018-08-15T09:44:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/08/13/Promise%E7%90%86%E8%A7%A3%E8%BF%9B%E9%98%B6%E7%AF%87/</loc>
     
-    <lastmod>2018-08-15T06:09:22.000Z</lastmod>
+    <lastmod>2018-08-15T06:16:28.000Z</lastmod>
     
   </url>
   
