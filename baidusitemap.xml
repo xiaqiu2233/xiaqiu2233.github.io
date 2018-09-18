@@ -4,6 +4,130 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/08/15/React%E7%90%86%E8%A7%A3/</loc>
+    <lastmod>2018-09-18T05:44:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>React理解</title>
+        <pubTime>2018-08-15T14:57:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/15/HTTP%E6%9D%82%E8%AF%B4/</loc>
+    <lastmod>2018-09-18T05:07:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTTP杂说</title>
+        <pubTime>2018-08-15T06:14:46.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/22/promise%E3%80%81generator%E5%92%8Casync%E7%9A%84%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2018-09-17T12:46:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>Promise、Generator和async的原理</title>
+        <pubTime>2018-08-22T12:40:49.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/16/redux%E5%92%8Creact-redux/</loc>
+    <lastmod>2018-09-17T08:08:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>redux和react-redux</title>
+        <pubTime>2018-09-16T03:56:12.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/22/%E5%90%84%E7%B1%BB%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2018-09-16T02:39:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>各类排序算法</title>
+        <pubTime>2018-08-22T02:24:01.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/04/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2018-09-16T02:37:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>快速排序</title>
+        <pubTime>2017-11-04T13:32:46.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/03/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</loc>
+    <lastmod>2018-09-15T16:10:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>二分查找</title>
+        <pubTime>2018-09-03T01:33:36.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/12/08/CSS%E4%B8%AD%E7%9A%84BFC/</loc>
+    <lastmod>2018-09-15T01:43:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>CSS中的BFC</title>
+        <pubTime>2017-12-08T02:56:24.000Z</pubTime>
+        
+        <tag>css</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/08/25/CSS%E5%A4%87%E5%BF%98/</loc>
     <lastmod>2018-09-14T16:27:49.000Z</lastmod>
     <data>
@@ -40,21 +164,6 @@
         <display>
         <title>输入一个URL</title>
         <pubTime>2018-08-16T15:41:11.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/08/15/HTTP%E6%9D%82%E8%AF%B4/</loc>
-    <lastmod>2018-09-14T06:28:05.000Z</lastmod>
-    <data>
-        <display>
-        <title>HTTP杂说</title>
-        <pubTime>2018-08-15T06:14:46.000Z</pubTime>
         
          
            
@@ -154,21 +263,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/08/15/React%E7%90%86%E8%A7%A3/</loc>
-    <lastmod>2018-09-13T05:58:07.000Z</lastmod>
-    <data>
-        <display>
-        <title>React理解</title>
-        <pubTime>2018-08-15T14:57:00.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/08/22/%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BA%8B%E4%BB%B6%E6%8D%95%E8%8E%B7/</loc>
     <lastmod>2018-09-13T04:12:08.000Z</lastmod>
     <data>
@@ -246,36 +340,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/08/22/%E5%90%84%E7%B1%BB%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2018-09-03T05:21:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>各类排序算法</title>
-        <pubTime>2018-08-22T02:24:01.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/09/03/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</loc>
-    <lastmod>2018-09-03T02:55:27.000Z</lastmod>
-    <data>
-        <display>
-        <title>二分查找</title>
-        <pubTime>2018-09-03T01:33:36.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/09/01/%E8%8A%82%E6%B5%81%E4%B8%8E%E9%98%B2%E6%8A%96/</loc>
     <lastmod>2018-09-02T05:56:28.000Z</lastmod>
     <data>
@@ -312,38 +376,6 @@
         <display>
         <title>页面优化</title>
         <pubTime>2018-08-19T03:06:41.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/11/04/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2018-08-27T12:42:31.000Z</lastmod>
-    <data>
-        <display>
-        <title>快速排序</title>
-        <pubTime>2017-11-04T13:32:46.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/08/22/promise%E3%80%81generator%E5%92%8Casync%E7%9A%84%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2018-08-26T14:02:35.000Z</lastmod>
-    <data>
-        <display>
-        <title>Promise、Generator和async的原理</title>
-        <pubTime>2018-08-22T12:40:49.000Z</pubTime>
         
          
            
@@ -397,23 +429,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/12/08/CSS%E4%B8%AD%E7%9A%84BFC/</loc>
-    <lastmod>2018-02-26T13:32:47.000Z</lastmod>
-    <data>
-        <display>
-        <title>CSS中的BFC</title>
-        <pubTime>2017-12-08T02:56:24.000Z</pubTime>
-        
-        <tag>css</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://yoursite.com/2018/01/06/Promise/</loc>
